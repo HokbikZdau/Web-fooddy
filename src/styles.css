@@ -1,0 +1,32 @@
+body{
+    overflow-x: hidden;
+}
+
+h1{
+    font-size: 30px;
+}
+
+h1 .dong1{
+    text-align: center;
+    color: red;
+    padding: 20px 0 ;
+    text-transform: uppercase;
+    background-color: yellow;
+}
+h1 .dong2{
+    color: blue;
+}
+
+p{
+    font-size: 36px;
+    margin-left: 26px;
+}
+
+.Box_image{
+    width: 100%;
+    margin: 0 34px;
+}
+
+.Box_image img{
+    width: 98%;
+}
